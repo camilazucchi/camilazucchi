@@ -1,3 +1,4 @@
+<img align="center" alt="Sailor Moon" width="400" src="https://c.tenor.com/iPlVNVvbqWMAAAAC/sailor-moon-anime.gif">
 <h1 align="center">Hi there, I'm Camila! 🌼</h1>
 <h3 align="center">A passionate frontend junior developer from Brazil.</h3>
 

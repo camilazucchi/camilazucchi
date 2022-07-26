@@ -6,3 +6,5 @@
 <p align = "center">✨ Eu sou a Camila, mas pode me chamar de Cami!</p>
 <p align = "center">🧸 Atualmente estudo programação focada em Front-end.</p>
 <p align = "center">🍯 Você pode entrar em contato comigo pelo meu <a href="https://www.linkedin.com/in/camilazucchi/">LinkedIn</a>.</p>
+
+![Cami's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilazucchi&theme=dracula&show_icons=true)

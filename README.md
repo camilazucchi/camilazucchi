@@ -7,4 +7,4 @@
 <p align = "center">🧸 Atualmente estudo programação focada em Front-end.</p>
 <p align = "center">🍯 Você pode entrar em contato comigo pelo meu <a href="https://www.linkedin.com/in/camilazucchi/">LinkedIn</a>.</p>
 
-<align="center">![Cami's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilazucchi&theme=dracula&show_icons=true)
+![Cami's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilazucchi&theme=dracula&show_icons=true)

@@ -12,3 +12,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 💌 para entrar em contato comigo:
+![LinkedIn]<a href="https://www.linkedin.com/in/camilazucchi/">(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>

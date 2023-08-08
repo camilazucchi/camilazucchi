@@ -1,6 +1,6 @@
 # Camila Zucchi
 
-Full Stack Developer
+<img width="130" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J6aHo2dW14Y2tuZGt6NG54MmNqOXUxOW45Zzg5b2t5MncwbnZnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGbKvuoCNpcOWaTq9M/giphy.gif">[![Typing SVG](https://readme-typing-svg.demolab.com/?&color=5e548e&lines=Full+Stack+Developer;)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-5e548e?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/camilazucchi/)](https://www.linkedin.com/in/camilazucchi/)
 

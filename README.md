@@ -1,18 +1,9 @@
-<h1>✌ oie, tudo bem?</h1>
-<p>me chamo camila, meus pronomes são ela/dela e resido em florianópolis/sc. 📍
-<br>atualmente, estou focando no meu desenvolvimento como web developer e aprimorando meus conhecimentos de forma autodidata, através de cursos e bootcamps.
+# Camila Zucchi
 
-💻 para me conhecer melhor, essas são as tecnologias/ferramentas que possuo conhecimento:
-  
-<br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Full Stack Developer
 
-💌 sinta-se à vontade para entrar em contato comigo:
-  
-  
-<a href="https://www.linkedin.com/in/camilazucchi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto: camilazucchi@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-5e548e?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/camilazucchi/)](https://www.linkedin.com/in/camilazucchi/)
+
+Me chamo Camila, tenho 25 anos e resido em Florianópolis. Fui bolsista de Psicologia por dois anos, onde tive, curiosamente, meu primeiro contato com a tecnologia, através de um curso livre de programação Front-End com a empresa BRQ Digital Solutions. Após isso, decidi migrar para essa área, concentrando-me inicialmente em dar continuidade aos estudos que iniciei nesse curso livre.
+<br>Tenho um sólido domínio em desenvolvimento Front-End, abrangendo HTML, CSS, JavaScript e TypeScript, e estou familiarizada em tecnologias como React e Next.js. Minhas habilidades incluem a criação de interfaces cativantes, integração com APIs orientada ao Front-End e uma boa dose de criatividade no Figma.
+<br>Tenho como objetivo me tornar uma desenvolvedora <b>Full Stack</b>, e por isso estou direcionando meus esforços para o aprimoramento do desenvolvimento Back-End, utilizando Java, e aprofundando meus conhecimentos em Bancos de Dados.

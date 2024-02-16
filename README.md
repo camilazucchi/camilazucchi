@@ -4,6 +4,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-5e548e?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/camilazucchi/)](https://www.linkedin.com/in/camilazucchi/)
 
-Me chamo Camila, tenho 25 anos e resido em Florianópolis. Fui bolsista de Psicologia por dois anos, onde tive, curiosamente, meu primeiro contato com a tecnologia, através de um curso livre de programação Front-End com a empresa BRQ Digital Solutions. Após isso, decidi migrar para essa área, concentrando-me inicialmente em dar continuidade aos estudos que iniciei nesse curso livre.
-<br>Tenho um sólido domínio em desenvolvimento Front-End, abrangendo HTML, CSS, JavaScript e TypeScript, e estou familiarizada em tecnologias como React e Next.js. Minhas habilidades incluem a criação de interfaces cativantes, integração com APIs orientada ao Front-End e uma boa dose de criatividade no Figma.
-<br>Tenho como objetivo me tornar uma desenvolvedora <b>Full Stack</b>, e por isso estou direcionando meus esforços para o aprendizado em desenvolvimento Back-End, com Java, e aprofundando meus conhecimentos em Banco de Dados.
+Iniciei minha jornada no universo da tecnologia há dois anos através de um curso de extensão em Front-end enquanto era bolsista integral de Psicologia, mergulhando nos fundamentos como HTML, CSS, pré-processadores CSS e JavaScript. Encantada pelo mundo do desenvolvimento, decidi trancar a faculdade de Psicologia para seguir minha paixão.
+
+Meu foco inicial foi o Front-end, onde explorei tecnologias como React e aprimorei habilidades em responsividade. Atualmente, estou expandindo meu conhecimento para o Back-end, explorando Java com orientação a objetos, Spring Boot e a gestão eficiente de bancos de dados.
+
+Acredito que a combinação de conhecimentos em Psicologia e Desenvolvimento me proporciona uma perspectiva única na criação de soluções tecnológicas centradas no usuário. Estou sempre em busca de aprender e evoluir, buscando desafios que me permitam contribuir para um mundo mais conectado e eficiente.

@@ -1,11 +1,19 @@
-# Camila Zucchi
+### Hello! Welcome to a little piece of my existence.
+I'm a college student majoring in Analysis and Systems Development, deeply passionate about backend development, particularly with Java using Spring Boot and databases.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&color=5e548e&lines=Full+Stack+Developer;)](https://git.io/typing-svg)
+### Featured Projects
+- [ViaCEP](https://github.com/camilazucchi/via-cep)
+- [Web Services Spring Boot and JPA/Hibernate](https://github.com/camilazucchi/workshop-springboot3-jpa)
+- [Restful API with Spring Boot and MongoDB](https://github.com/camilazucchi/workshop-springboot3-mongodb)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-5e548e?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/camilazucchi/)](https://www.linkedin.com/in/camilazucchi/)
+### Technologies I had contact with
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
 
-Iniciei minha jornada no universo da tecnologia há dois anos através de um curso de extensão em Front-end enquanto era bolsista integral de Psicologia, mergulhando nos fundamentos como HTML, CSS, pré-processadores CSS e JavaScript. Encantada pelo mundo do desenvolvimento, decidi trancar a faculdade de Psicologia para seguir minha paixão.
-
-Meu foco inicial foi o Front-end, onde explorei tecnologias como React e aprimorei habilidades em responsividade. Atualmente, estou expandindo meu conhecimento para o Back-end, explorando Java com orientação a objetos, Spring Boot e a gestão eficiente de bancos de dados.
-
-Acredito que a combinação de conhecimentos em Psicologia e Desenvolvimento me proporciona uma perspectiva única na criação de soluções tecnológicas centradas no usuário. Estou sempre em busca de aprender e evoluir, buscando desafios que me permitam contribuir para um mundo mais conectado e eficiente.
+### Technologies I'm foccused at the moment
+- Java with POO
+- Spring Boot
+- SQL and NoSQL  

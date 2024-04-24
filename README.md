@@ -6,14 +6,14 @@ I'm a college student majoring in Analysis and Systems Development, deeply passi
 - [Web Services Spring Boot and JPA/Hibernate](https://github.com/camilazucchi/workshop-springboot3-jpa)
 - [Restful API with Spring Boot and MongoDB](https://github.com/camilazucchi/workshop-springboot3-mongodb)
 
-### Technologies I had contact with
+### Technologies I've Worked With
 - HTML
 - CSS
 - JavaScript
 - TypeScript
 - React
 
-### Technologies I'm foccused at the moment
-- Java with POO
+### Current Focus
+- Java with Object-Oriented Programming (OOP)
 - Spring Boot
-- SQL and NoSQL  
+- SQL and NoSQL databases

@@ -3,9 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilazucchi/)
 
-
-
-## Languages and Tools:
+### Languages and Tools:
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px; scrollbar-width: none;">
   <img src="https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,6 +20,7 @@
   <img src="https://img.shields.io/badge/Node.js-FFC0CB?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
-## Certifications
+### Certifications
 ![AI-Assisted Certified Professional](https://img.shields.io/badge/AI%20Assisted%20Certified%20Professional-FFC0CB?style=for-the-badge&logo=certificate&logoColor=white)  
 ![GenAI Technical Certification](https://img.shields.io/badge/GenAI%20Technical%20Certification-FFC0CB?style=for-the-badge&logo=certificate&logoColor=white)
+

@@ -1,5 +1,5 @@
 <h2>Hello, I'm Cami! <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/045/385/633/small/cartoon-happy-cat-wearing-space-suit-free-png.png" width="40px"></h2>
-<p><em>I'm a Systems Analysis and Development student and a Full-Stack Developer at Compass UOL</em></p>
+<p><em>I'm a Systems Analysis and Development student and a Full-Stack Developer @ Compass UOL.</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilazucchi/)
 

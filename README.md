@@ -1,5 +1,5 @@
 <h2>Hi there, I'm Cami! <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/045/385/633/small/cartoon-happy-cat-wearing-space-suit-free-png.png" width="40px"></h2>
-I'm a Systems Analysis and Development student and a Full-Stack Developer Intern at Compass UOL.<br>
+I'm a Systems Analysis and Development student and a Full-Stack Developer.<br>
 My coding journey began before I even knew what HTML and CSS were — I was fifteen when I started customizing Tumblr themes, and that’s how I fell in love with programming.
 <br>
 <br>
